@@ -1,0 +1,4 @@
+https://dotnet.microsoft.com/en-us/learn/csharp
+
+https://www.youtube.com/watch?v=M5ugY7fWydE
+
